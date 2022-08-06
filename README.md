@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ... Data Scientist: Inference Specialist course (https://www.codecademy.com/profiles/aishwaree)
 - :slightly_smiling_face: Pronouns: ... She/Her
 - :zap: Fun fact: ... I have met three famous philosophers!
+- 📫 Reach me: Linkedin
 
 <!---
 Aishwaree/Aishwaree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
