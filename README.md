@@ -1,5 +1,5 @@
 👋 Hi, I’m @Aishwaree
-- 👀 I’m interested in ... Data Analysis, Economics and Finance
+- 👀 I’m interested in ... Data Analysis, Economics, Finance and Philosophy.
 - I have skills in ... Power BI, SQL, Python
 - 🌱 I’m currently learning ... Data Scientist: Inference Specialist course (https://www.codecademy.com/profiles/aishwaree)
 - :slightly_smiling_face: Pronouns: ... She/Her
