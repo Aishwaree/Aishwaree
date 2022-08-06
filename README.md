@@ -2,8 +2,8 @@
 ---
 - 👀 I’m interested in Data Analysis, Economics and Finance.
 - 🌱 Skills: Power BI, SQL, Python
-- :notebook_with_decorative_cover: Codecademy: Data Scientist: Inference Specialist course on Codecademy. Check out my [profile](https://www.codecademy.com/profiles/aishwaree)
-- :slightly_smiling_face My pronouns: She/Her
+- :notebook_with_decorative_cover: Codecademy: Data Scientist: Inference Specialist course on Codecademy. Check out my [profile](https://www.codecademy.com/profiles/aishwaree)!
+- :slightly_smiling_face: My pronouns: She/Her
 - :zap: Fun fact: I play badminton!
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/aishwareemahadea)
 
