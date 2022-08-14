@@ -1,6 +1,6 @@
 👋 Hi, I’m @Aishwaree
 ---
-- 👀 I’m interested in Data Analysis, Economics and Finance.
+- 👀 I’m interested in Data Analysis and Economics.
 - 🌱 Skills: Power BI, SQL, Python and Excel. Some knowledge of HTML.
 - :notebook_with_decorative_cover: Codecademy: Data Scientist: Inference Specialist course on Codecademy. Check out my [profile](https://www.codecademy.com/profiles/aishwaree)!
 - :slightly_smiling_face: My pronouns: She/Her
